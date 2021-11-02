@@ -1,0 +1,10 @@
+
+.img-responsive-1{
+    position:relative;
+    z-index:10;
+}
+.img-responsive-2{
+    position:relative;
+    top:-610px;
+    right:50px;
+}
